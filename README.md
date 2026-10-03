@@ -33,6 +33,10 @@ component has precedents; no public project was found running the full
 configuration. Treat "first of its kind" as the authors' claim pending independent
 verification. See `LIMITATIONS.md`.
 
+## Contact
+
+Questions about this dataset: [@Neal4f on X](https://x.com/Neal4f).
+
 ## Note on the Zenodo v0.1 files
 
 The published v0.1 ZIP on Zenodo contains a `.git/` directory whose logs expose
