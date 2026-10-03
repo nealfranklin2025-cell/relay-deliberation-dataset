@@ -1,0 +1,40 @@
+# SPDX-License-Identifier: CC-BY-4.0
+cff-version: 1.2.0
+title: "Human-Mediated Cross-Model Deliberation: Jury Transcripts and Take/Reject Lists from the Relay Operation (Docket 02, Round 1)"
+message: "If you use this dataset, please cite it as below."
+type: dataset
+authors:
+  - given-names: "Clifton O'Neal"
+    family-names: "Franklin"
+version: 0.2.0
+date-released: 2026-10-02
+doi: "10.5281/zenodo.23112942"
+repository-code: "https://github.com/nealfranklin2025-cell/relay-deliberation-dataset"
+url: "https://zenodo.org/records/23112942"
+abstract: >-
+  Verbatim transcripts from a formal memory-free jury round in which four
+  independent commercial AI products (Grok, Claude, ChatGPT, Perplexity) were
+  consulted separately on the same research docket ("Memory as a Security
+  Boundary"), with a human operator and a coordinator agent ferrying material
+  between them and no direct AI-to-AI contact. Includes the coordinator's
+  consolidated verdict and take/reject lists with provenance, plus two companion
+  articles on the operation's open-source tool raids. The authors' claim: the
+  first longitudinal dataset of human-mediated cross-model deliberation
+  (unverified; see LIMITATIONS.md).
+keywords:
+  - multi-model deliberation
+  - AI jury
+  - human-in-the-loop
+  - agent memory security
+  - capability revocation
+  - cross-model comparison
+license: CC-BY-4.0
+preferred-citation:
+  type: article
+  doi: 10.5281/zenodo.23112942
+  title: "Human-Mediated Cross-Model Deliberation: Jury Transcripts and Take/Reject Lists from the Relay Operation (Docket 02, Round 1)"
+  authors:
+    - given-names: "Clifton O'Neal"
+      family-names: "Franklin"
+  year: 2026
+  notes: "Version 0.2. Cite the Zenodo DOI for permanence."
